@@ -4,7 +4,7 @@ Discente: Kayque Almeida Piton
 Descrição:
 Este projeto prático .NET - P001 está estruturado em regiões distintas, cada uma correspondendo a uma pergunta específica. O arquivo README.md detalha a configuração do ambiente .NET, tipos de dados numéricos, conversão de tipos, operadores aritméticos, operadores de comparação, operadores de igualdade, operadores lógicos e apresenta um desafio de mistura de operadores. Cada resposta está claramente separada em sua própria região, facilitando a navegação e a compreensão do conteúdo.
 
-<!-- region: 1. Configuração do Ambiente -->
+#region 1. Configuração do Ambiente
 
 // Verificar a versão do .NET SDK instalado:
 dotnet --version
@@ -19,9 +19,9 @@ dotnet --install-sdk <version>  // Instalar uma versão específica
 // Remover o .NET SDK:
 dotnet --uninstall-sdk <version>
 
-<!-- endregion -->
+#endregion
 
-<!-- region: 2. Tipos de Dados Numéricos Inteiros no .NET -->
+#region 2. Tipos de Dados Numéricos Inteiros no .NET
 
 // No .NET, os tipos de dados numéricos inteiros incluem:
 sbyte
@@ -41,9 +41,9 @@ ushort ushortValue = 60000;
 long longValue = 1234567890123456789;
 ulong ulongValue = 9876543210987654321;
 
-<!-- endregion -->
+#endregion
 
-<!-- region: 3. Conversão de Tipos de Dados -->
+#region 3. Conversão de Tipos de Dados
 
 double doubleValue = 15.75;
 int intValue = (int)doubleValue; // Conversão de double para int
@@ -51,9 +51,9 @@ Console.WriteLine("Valor convertido: " + intValue);
 
 // Se a parte fracionária não puder ser convertida, a mesma será truncada.
 
-<!-- endregion -->
+#endregion
 
-<!-- region: 4. Operadores Aritméticos -->
+#region 4. Operadores Aritméticos
 
 int x = 10;
 int y = 3;
@@ -62,9 +62,9 @@ Console.WriteLine("Subtração: " + (x - y));
 Console.WriteLine("Multiplicação: " + (x * y));
 Console.WriteLine("Divisão: " + (x / y));
 
-<!-- endregion -->
+#endregion
 
-<!-- region: 5. Operadores de Comparação -->
+#region 5. Operadores de Comparação
 
 int a = 5;
 int b = 8;
@@ -75,9 +75,9 @@ else{
     Console.WriteLine("a não é maior que b.");
 }
 
-<!-- endregion -->
+#endregion
 
-<!-- region: 6. Operadores de Igualdade -->
+#region 6. Operadores de Igualdade
 
 string str1 = "Hello";
 string str2 = "World";
@@ -88,9 +88,9 @@ else{
     Console.WriteLine("As strings são diferentes.");
 }
 
-<!-- endregion -->
+#endregion
 
-<!-- region: 7. Operadores Lógicos -->
+#region 7. Operadores Lógicos
 
 bool condicao1 = true;
 bool condicao2 = false;
@@ -101,9 +101,9 @@ else{
     Console.WriteLine("Pelo menos uma das condições é falsa.");
 }
 
-<!-- endregion -->
+#endregion
 
-<!-- region: 8. Desafio de Mistura de Operadores -->
+#region 8. Desafio de Mistura de Operadores
 
 int num1 = 7;
 int num2 = 3;
@@ -115,5 +115,4 @@ else{
     Console.WriteLine("As condições não são atendidas.");
 }
 
-<!-- endregion -->
-
+#endregion
