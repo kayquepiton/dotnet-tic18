@@ -1,0 +1,15 @@
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/bin/Debug/net7.0/exercicio5
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/bin/Debug/net7.0/exercicio5.deps.json
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/bin/Debug/net7.0/exercicio5.runtimeconfig.json
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/bin/Debug/net7.0/exercicio5.dll
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/bin/Debug/net7.0/exercicio5.pdb
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/obj/Debug/net7.0/exercicio5.csproj.AssemblyReference.cache
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/obj/Debug/net7.0/exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/obj/Debug/net7.0/exercicio5.AssemblyInfoInputs.cache
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/obj/Debug/net7.0/exercicio5.AssemblyInfo.cs
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/obj/Debug/net7.0/exercicio5.csproj.CoreCompileInputs.cache
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/obj/Debug/net7.0/exercicio5.dll
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/obj/Debug/net7.0/refint/exercicio5.dll
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/obj/Debug/net7.0/exercicio5.pdb
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/obj/Debug/net7.0/exercicio5.genruntimeconfig.cache
+/home/kayque-almeida-piton/dotnet-tic18/Semana4/exercicio5/obj/Debug/net7.0/ref/exercicio5.dll
