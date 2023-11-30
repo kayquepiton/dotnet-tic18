@@ -1,0 +1,15 @@
+/home/kayque-almeida-piton/dotnet-tic18/Prova/bin/Debug/net7.0/Prova
+/home/kayque-almeida-piton/dotnet-tic18/Prova/bin/Debug/net7.0/Prova.deps.json
+/home/kayque-almeida-piton/dotnet-tic18/Prova/bin/Debug/net7.0/Prova.runtimeconfig.json
+/home/kayque-almeida-piton/dotnet-tic18/Prova/bin/Debug/net7.0/Prova.dll
+/home/kayque-almeida-piton/dotnet-tic18/Prova/bin/Debug/net7.0/Prova.pdb
+/home/kayque-almeida-piton/dotnet-tic18/Prova/obj/Debug/net7.0/Prova.csproj.AssemblyReference.cache
+/home/kayque-almeida-piton/dotnet-tic18/Prova/obj/Debug/net7.0/Prova.GeneratedMSBuildEditorConfig.editorconfig
+/home/kayque-almeida-piton/dotnet-tic18/Prova/obj/Debug/net7.0/Prova.AssemblyInfoInputs.cache
+/home/kayque-almeida-piton/dotnet-tic18/Prova/obj/Debug/net7.0/Prova.AssemblyInfo.cs
+/home/kayque-almeida-piton/dotnet-tic18/Prova/obj/Debug/net7.0/Prova.csproj.CoreCompileInputs.cache
+/home/kayque-almeida-piton/dotnet-tic18/Prova/obj/Debug/net7.0/Prova.dll
+/home/kayque-almeida-piton/dotnet-tic18/Prova/obj/Debug/net7.0/refint/Prova.dll
+/home/kayque-almeida-piton/dotnet-tic18/Prova/obj/Debug/net7.0/Prova.pdb
+/home/kayque-almeida-piton/dotnet-tic18/Prova/obj/Debug/net7.0/Prova.genruntimeconfig.cache
+/home/kayque-almeida-piton/dotnet-tic18/Prova/obj/Debug/net7.0/ref/Prova.dll
